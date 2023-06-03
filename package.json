@@ -3,7 +3,7 @@
     "displayName": "Sugyeongkim BigUtil UniRx",
     "author": { "name": "SugyeongKim", "url": "https://github.com/sugyeongkimdev" },
     "version": "1.0.0",
-    "description": "https://github.com/sugyeongkimdev/Unity-Utility",
+    "description": "https://github.com/sugyeongkimdev/Sugyeongkim.BigUtil.UniRx",
     "license": "MIT",
     "dependencies": {}
 }
